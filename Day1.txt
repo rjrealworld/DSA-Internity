@@ -1,0 +1,26 @@
+## What is Data?
+
+Data refers to distinct pieces of information, usually formatted and stored in a way that is concordant with a specific purpose. Data can exist in various forms: as numbers or text recorded on paper, as bits or bytes stored in electronic memory, or as facts living in a person’s mind.
+
+## What is Data Structures?
+
+A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+
+## What is abstract data types?
+
+An abstract data type is a model for data consisting of values and operations, whose concrete structure is hidden. 
+For example, a Set abstract data type is defined as having operations like add and remove. Each of these operations mutates or returns a value, but the means by which they do so, or by which a Set is represented, is hidden from consumers of the Set type. 
+So, ADT only mentions what operations are to be performed but not how these operations will be implemented.
+
+## Need of DS in real life
+
+I've noticed many people assuming algorithms are pointless questions that are asked by tech companies purely as an arbitrary measure. I hear more people complain about how all of this is a purely academic exercise. 
+I have come across everyday use cases of data structures and algorithms while learning in WTEF.
+This included writing code and making decisions based on these concepts. But for the most part, I used this knowledge to understand how and why some things were built. Knowing these concepts made it easy to understand design and implementations referencing these.
+For example - 
+1. Everyone uses Google Maps to check out routes and traffics. That applicaiton is actually implemented on the basis of Graphs and weighted trees concepts.
+2. To store the possible moves in a chess game.
+3. To store the customer order information in a drive-in burger place. 
+And there are infinite use case for Data Structures.
+
+## 
